@@ -2,8 +2,9 @@
   "name": "insa-types",
   "version": "1.0.0",
   "description": "intellisys SaaS Types",
-  "main": "index.js",
-  "types": "dist/index.d.ts",
+  "main": "",
+  "types": "src/index.d.ts",
+  "typings": "src/index.d.ts",
   "files": [
     "/dist"
   ],
