@@ -1,6 +1,6 @@
 {
   "name": "insa-types",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "intellisys SaaS Types",
   "main": "",
   "types": "src/index.d.ts",
