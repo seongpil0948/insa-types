@@ -1,0 +1,21 @@
+{
+  "name": "insa-types",
+  "version": "1.0.0",
+  "description": "intellisys SaaS Types",
+  "main": "index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "types"
+  ],
+  "author": "sp",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.2.3"
+  }
+}
