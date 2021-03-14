@@ -6,7 +6,7 @@
   "types": "src/index.d.ts",
   "typings": "src/index.d.ts",
   "files": [
-    "/dist"
+    "src/index.d.ts"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
